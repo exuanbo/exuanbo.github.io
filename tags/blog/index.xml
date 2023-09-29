@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Exuanbo&#39;s</title>
+    <link>https://exuanbo.xyz/tags/blog/</link>
+    <description>Recent content in blog on Exuanbo&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://exuanbo.xyz/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>独立博客建立指南 0 | 选择</title>
+      <link>https://exuanbo.xyz/posts/blog-from-scratch-0/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/blog-from-scratch-0/</guid>
+      <description>本系列文章面向无相关计算机基础但对独立博客感兴趣的人。 为什么写博客以及为什么选择「独立」博客此处不再赘述，推荐刘末鹏的一篇文章 《为什么你应该</description>
+    </item>
+    
+  </channel>
+</rss>
