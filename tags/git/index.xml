@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Exuanbo&#39;s</title>
+    <link>https://exuanbo.xyz/tags/git/</link>
+    <description>Recent content in git on Exuanbo&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Jan 2019 11:36:32 +0100</lastBuildDate>
+    
+	<atom:link href="https://exuanbo.xyz/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>处理 Git 中的 .DS_Store 文件</title>
+      <link>https://exuanbo.xyz/posts/dsstore-in-git/</link>
+      <pubDate>Sun, 13 Jan 2019 11:36:32 +0100</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/dsstore-in-git/</guid>
+      <description>我最近新换了 Mac 系统，使用 git 时发现目录下自动生成了一个隐藏的 .DS_Store 文件。.DS_Store（英文全称 Desktop Services Store）是一种由苹果公司的 Mac OS 操作系统</description>
+    </item>
+    
+  </channel>
+</rss>

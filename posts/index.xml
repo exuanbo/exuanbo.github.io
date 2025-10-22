@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Exuanbo&#39;s</title>
+    <link>https://exuanbo.xyz/posts/</link>
+    <description>Recent content in Posts on Exuanbo&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Sep 2025 23:32:23 +0100</lastBuildDate>
+    
+	<atom:link href="https://exuanbo.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一个简单的交友帖</title>
+      <link>https://exuanbo.xyz/posts/make-friends/</link>
+      <pubDate>Fri, 19 Sep 2025 23:32:23 +0100</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/make-friends/</guid>
+      <description>关于我 犹豫了很久才决定开始动笔，犹豫的原因可能是我担心自己没有足够精力来回应留言、处理新的关系。虽然很大概率会石沉大海，但我还是想尝试下，顺</description>
+    </item>
+    
+    <item>
+      <title>自恋</title>
+      <link>https://exuanbo.xyz/posts/love/</link>
+      <pubDate>Wed, 14 Jun 2023 00:22:38 +0100</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/love/</guid>
+      <description>今天是六月十三日，到今天为止我在苹果实习三个月了。观察到自己很明显的一个变化是没有了冒充者综合征：当看到另一个实习生的背景不会像去年时那样自</description>
+    </item>
+    
+    <item>
+      <title>我的二零二零：破碎与重组</title>
+      <link>https://exuanbo.xyz/posts/my-2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/my-2020/</guid>
+      <description>眨眼间又到了年末，当意识到是时候写一写总结的时候，我有些抗拒。回想今年发生的事情，这段记忆像一场梦，像一块破碎的拼图，细节部分不知道被谁踢进</description>
+    </item>
+    
+    <item>
+      <title>抑郁症康复中的碎碎念</title>
+      <link>https://exuanbo.xyz/posts/depression/</link>
+      <pubDate>Wed, 14 Oct 2020 23:01:25 +0100</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/depression/</guid>
+      <description>我现在还是写不出有逻辑的长文，虽说以前也没什么逻辑。 笔友的邮件被我搁置了几个月还是不知道如何回复。 我非常清楚活着的理由。 我会试着接受平凡的自</description>
+    </item>
+    
+    <item>
+      <title>我的二零一九</title>
+      <link>https://exuanbo.xyz/posts/my-2019/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/my-2019/</guid>
+      <description>Ramblings 人会想尽一切办法（哪怕是荒谬的办法）避免直面自己的灵魂。 和去年的此时相比我最大的变化是学会了「自我接纳」，包括“好”的方面也包括“坏”的方</description>
+    </item>
+    
+    <item>
+      <title>独立博客建立指南 0 | 选择</title>
+      <link>https://exuanbo.xyz/posts/blog-from-scratch-0/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/blog-from-scratch-0/</guid>
+      <description>本系列文章面向无相关计算机基础但对独立博客感兴趣的人。 为什么写博客以及为什么选择「独立」博客此处不再赘述，推荐刘末鹏的一篇文章 《为什么你应该</description>
+    </item>
+    
+    <item>
+      <title>转 | 程序员技术练级攻略</title>
+      <link>https://exuanbo.xyz/posts/programmer/</link>
+      <pubDate>Tue, 24 Sep 2019 22:42:50 +0200</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/programmer/</guid>
+      <description>本文由 简悦 SimpRead 转码， 原文地址 https://www.codetd.com/article/4196914 根据极客时间 @左耳朵耗子 整理 附: 程序员技术练级攻略（2011 版） 0. 书单 左耳朵耗子《程序员练级攻略》推荐必读书籍清</description>
+    </item>
+    
+    <item>
+      <title>关于死亡、生活和爱情</title>
+      <link>https://exuanbo.xyz/posts/death-life-love/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/death-life-love/</guid>
+      <description>这半年里我对于「死亡」这个略沉重的话题有了新的思考，主要因为: 一期播客: #41：死亡是凉爽的夜晚 这是《得意忘形》播客的第 41 期节目。这期节目我</description>
+    </item>
+    
+    <item>
+      <title>处理 Git 中的 .DS_Store 文件</title>
+      <link>https://exuanbo.xyz/posts/dsstore-in-git/</link>
+      <pubDate>Sun, 13 Jan 2019 11:36:32 +0100</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/dsstore-in-git/</guid>
+      <description>我最近新换了 Mac 系统，使用 git 时发现目录下自动生成了一个隐藏的 .DS_Store 文件。.DS_Store（英文全称 Desktop Services Store）是一种由苹果公司的 Mac OS 操作系统</description>
+    </item>
+    
+    <item>
+      <title>我的二零一八：新开始</title>
+      <link>https://exuanbo.xyz/posts/my-2018/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://exuanbo.xyz/posts/my-2018/</guid>
+      <description>1. 发生的事 3 月第一次考 CELI 意大利语 B1 失败，7 月第二次考成功 7 月 6 日跟语言学校的老师和同学去了五渔村，离开人群一个人走了两段栈道，拍了风景照片，</description>
+    </item>
+    
+  </channel>
+</rss>
